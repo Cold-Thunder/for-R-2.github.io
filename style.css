@@ -30,7 +30,7 @@ button p{
     font-size:16px;
 }
 #button-2{
-
+    background-image:linear-gradient(red, orange);
 }
 
 .button{
